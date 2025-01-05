@@ -1,0 +1,11 @@
+@article{REPO018,
+    author = "Ding, Sihao and Feng, Fuli and He, Xiangnan and Liao, Yong and Shi, Jun and Zhang, Yongdong",
+    doi = "10.1109/TNNLS.2022.3156066",
+    journal = "IEEE Transactions on Neural Networks and Learning Systems",
+    keywords = "Convolutional neural networks;Training;Data models;Recommender systems;Costs;Synchronization;Collaboration;Cause effect analysis;Graph neural networks;Casual inference;colliding effect (CE);graph neural network;incremental training;recommender system",
+    number = "4",
+    pages = "4718-4728",
+    title = "{Causal Incremental Graph Convolution for Recommender System Retraining}",
+    volume = "35",
+    year = "2024"
+}
